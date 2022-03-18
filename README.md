@@ -1,6 +1,18 @@
 # client-assessment
 
+## Environment requirement
+```
+Node ^v14.16.1
+Vue CLI ^@vue/cli 5.0.3
+```
+
 ## Project setup
+### Setup dotenv file
+```
+Setup .env file. You can refer to .env.sample
+```
+
+### Install packages
 ```
 npm install
 ```
